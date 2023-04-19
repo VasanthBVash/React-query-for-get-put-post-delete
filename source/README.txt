@@ -1,0 +1,1 @@
+The code contains get method and delete method by routing process  
